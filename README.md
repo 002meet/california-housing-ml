@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # california-housing-ml
 Machine Learning project for predicting California house prices using Scikit-learn. Includes preprocessing pipelines, model comparison, and production-ready inference.
 =======
